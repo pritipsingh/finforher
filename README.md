@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+##Inspiration
+Introducing "FinForHer" a groundbreaking project meticulously developed during this hackathon, to empower and support homemakers facing financial constraints. This innovative initiative is designed to facilitate their path towards financial stability and independence.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FinForHer was conceived with utmost compassion and dedication, as part of an event dedicated to celebrating and advocating for the rights of women and non-binary individuals. At its core, this project seeks to address the distinctive financial challenges encountered by homemakers, who often navigate tight budgets while striving to optimize every expenditure.
 
-## Available Scripts
+Through an intuitively designed interface and personalized financial management tools, FinForHer provides homemakers with unprecedented control over their finances. The application encompasses an array of features focused on enhancing financial literacy, facilitating efficient budgeting, and implementing intelligent savings strategies tailored to individual circumstances.
 
-In the project directory, you can run:
+Users will benefit from functionalities that assist in setting realistic financial goals, meticulously tracking daily expenses, and optimizing spending patterns to maximize savings. Moreover, FinForHer prides itself on its inclusive approach, ensuring that resources and guidance are tailored to accommodate the diverse experiences and circumstances of homemakers.
 
-### `npm start`
+Our team of dedicated developers, inspired by a shared vision of driving positive change, meticulously crafted FinForHer to create a secure and nurturing environment for homemakers to thrive. In alignment with the hackathon's mission to empower women and non-binary individuals, FinForHer strives to bridge financial disparities and promote economic empowerment for all.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In brief, FinForHer serves as a vital tool in the pursuit of financial resilience and prosperity. It is dedicated to uplifting homemakers and fostering a brighter, more prosperous future for all.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+What it does
+FinForHer enables homemakers to manage their finances judiciously, facilitating investments and savings for the future.
 
-### `npm test`
+How we built it
+Challenges we ran into
+The integration of the Capital One API for account generation presented initial complexities, prompting us to devise a workaround solution.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Accomplishments that we're proud of
+We take immense pride in the fact that, despite various challenges, our team completed this project ahead of the deadline. This achievement is a testament to the exceptional teamwork and determination exhibited by each member.
 
-### `npm run build`
+What we learned
+This project has provided us with invaluable experience in executing a project under stringent time constraints, ensuring the incorporation of desired features.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+What's next for FinForHer
+Our plans for FinForHer include the addition of community support features, further enhancing its impact and reach.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Thank you for considering "FinForHer" as part of this hackathon. We are excited about the potential it holds to make a tangible difference in the lives of homemakers, and we eagerly anticipate the opportunity to share our progress and insights.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built With
