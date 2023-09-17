@@ -7,6 +7,7 @@ import {
   MessageInput,
   TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
+import NavMain from "../Components/NavMain";
 
 const API_KEY = "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";
 
@@ -81,24 +82,32 @@ const Chat = () => {
   }
 
   return (
-    <div className="flex w-full h-screen justify-center items-center">
-      <div style={{ position: "relative", height: "500px", width: "800px" }}>
-        <MainContainer>
-          <ChatContainer>
-            <MessageList
-              typingIndicator={
-                typing ? <TypingIndicator content="We're thinking...." /> : null
-              }
-            >
-              {messages.map((message, i) => {
-                return <Message model={message} />;
-              })}
-            </MessageList>
-            <MessageInput placeholder="Type message here" onSend={handleSend} />
-          </ChatContainer>
-        </MainContainer>
+    <div>
+      <NavMain />
+      <div className="flex w-full h-screen justify-center items-center">
+        <div style={{ position: "relative", height: "500px", width: "800px" }}>
+          <MainContainer>
+            <ChatContainer>
+              <MessageList
+                typingIndicator={
+                  typing ? (
+                    <TypingIndicator content="We're thinking...." />
+                  ) : null
+                }
+              >
+                {messages.map((message, i) => {
+                  return <Message model={message} />;
+                })}
+              </MessageList>
+              <MessageInput
+                placeholder="Type message here"
+                onSend={handleSend}
+              />
+            </ChatContainer>
+          </MainContainer>
+        </div>
+        ;
       </div>
-      ;
     </div>
   );
 };
