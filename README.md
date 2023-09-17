@@ -28,5 +28,6 @@ What's next for FinForHer
 Our plans for FinForHer include the addition of community support features, further enhancing its impact and reach.
 
 Thank you for considering "FinForHer" as part of this hackathon. We are excited about the potential it holds to make a tangible difference in the lives of homemakers, and we eagerly anticipate the opportunity to share our progress and insights.
+Link to video[https://www.loom.com/share/ee9412b4260f4134a4c1eb22a2f0acf8?sid=7d47c6b8-b6ae-4400-9cd5-e2c363e73e4a]
 
-Built With love by Priti and Kriyanshi
+Built With Love by Priti and Kriyanshi
