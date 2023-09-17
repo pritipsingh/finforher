@@ -29,4 +29,4 @@ Our plans for FinForHer include the addition of community support features, furt
 
 Thank you for considering "FinForHer" as part of this hackathon. We are excited about the potential it holds to make a tangible difference in the lives of homemakers, and we eagerly anticipate the opportunity to share our progress and insights.
 
-Built With
+Built With love by Priti and Kriyanshi
