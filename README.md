@@ -1,4 +1,4 @@
-##Inspiration
+Inspiration <br>
 Introducing "FinForHer" a groundbreaking project meticulously developed during this hackathon, to empower and support homemakers facing financial constraints. This innovative initiative is designed to facilitate their path towards financial stability and independence.
 
 FinForHer was conceived with utmost compassion and dedication, as part of an event dedicated to celebrating and advocating for the rights of women and non-binary individuals. At its core, this project seeks to address the distinctive financial challenges encountered by homemakers, who often navigate tight budgets while striving to optimize every expenditure.
